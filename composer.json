@@ -8,5 +8,10 @@
             "email": "talk@dmtry.me"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/NewRelic.php"
+        ]
+    }
 }
