@@ -1,8 +1,6 @@
 <?php
 
 if (!extension_loaded('newrelic')) {
-    function newrelic_set_appname($name);
-
     function newrelic_add_custom_parameter($key, $value) {}
 
     function newrelic_add_custom_tracer($functionName) {}
