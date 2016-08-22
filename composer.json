@@ -1,0 +1,12 @@
+{
+    "name": "ovr/newrelic-polyfill",
+    "description": "Polyfill for the New Relic PHP extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Patsura",
+            "email": "talk@dmtry.me"
+        }
+    ],
+    "require": {}
+}
